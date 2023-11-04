@@ -28,9 +28,6 @@
  *
  *Program author
  * Name: Maureen Wanjiku Githaiga
- * Student number: 151227842
- * UserID: vpmagi
- * E-Mail: githaigamaureen@tuni.fi
  *
  * */
 #include <iostream>
