@@ -6,6 +6,9 @@ This project is a Gig Timetable Management System that allows users to store and
 - Consider how to divide program into parts by using functions. 
 - Practice choosing an appropriate data structure among the different data structures of STL
 
+  **Task**
+  -Implement a program that first reads information concerning artists’ gig timetables from the input file, stores them into a suitable data structure, and then permits the user to make searches, insertions, and removals in the data structure in question.
+
 **Features**
 - Reading and processing gig information from an input file.
 - Storing gig information in a suitable data structure.
