@@ -2,8 +2,8 @@
 This project is a Gig Timetable Management System that allows users to store and manage information about artists' gig schedules.The program provides functionalities such as searching, inserting, and removing entries in the gig timetable.
 
 **Goal:**
--Practice using containers and iterators of STL as well as file management.
--Consider how to divide program into parts by using functions. 
+*Practice using containers and iterators of STL as well as file management.
+*Consider how to divide program into parts by using functions. 
 -Practice choosing an appropriate data structure among the different data structures of STL
 
 **Features**
